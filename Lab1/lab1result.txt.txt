@@ -1,0 +1,18 @@
+ANNA AIKATERINI TSIALIOU, 4188
+DIMITRIS PERKAS, 4156
+
+
+Test WordList
+linked list construction time = 1375
+number of linked list nodes  = 8184
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'the' 3681 times
+contains 'train' 0 times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+most frequent string = the
+deleted string the
+next most frequent string = and
+total running time = 1375
