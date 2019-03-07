@@ -1,0 +1,6 @@
+Test UnionFind
+Set Union Data Structure
+Pi[1]=13
+Pi[2]=13
+Set Union Data Structure
+Pi[1]=2
