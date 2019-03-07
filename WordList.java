@@ -1,5 +1,3 @@
-//ANNA AIKATERINI TSIALIOU, 4188
-//DIMITRIS PERKAS, 4156
 
 import java.io.*;
 
