@@ -1,0 +1,42 @@
+TESTING:
+
+1. [ ( { } ) ] ( )
+Output:
+Enter input string > [({})]()
+Input string = [({})]() , length = 8
+2-3,1-4,0-5,6-7,
+
+
+2. [ ( { } ) { [ ] ( ) } ] { [ ( ) ] }
+Output:
+
+Input string = [({}){[]()}]{[()]} , length = 18
+2-3,1-4,6-7,8-9,5-10,0-11,14-15,13-16,12-17,
+
+
+3. { ( } )
+Output:
+
+Input string = {(}) , length = 4
+Syntax Error
+
+
+4. )(
+Output:
+Input string = )( , length = 2
+Syntax Error
+Syntax Error
+
+
+5. [ ( )
+Output:
+Input string = [() , length = 3
+Syntax Error
+
+
+6. [ )( ] 
+Output:
+Input string = [)(] , length = 4
+Syntax Error
+
+
