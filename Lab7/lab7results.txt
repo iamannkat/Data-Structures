@@ -1,0 +1,27 @@
+// ANNA AIKATERINI TSIALIOU, 4188
+// DIMITRIS PERKAS, 4156
+
+
+Test Red Black Tree
+number of keys n = 16
+construction time = 0
+tree height = 7
+search time = 0
+
+
+cse74188@opti7020ws23:~/Downloads$ java RedBlackTree 1000
+Test Red Black Tree
+number of keys n = 1000
+construction time = 3
+tree height = 21
+search time = 1
+
+
+
+cse74188@opti7020ws23:~/Downloads$ java RedBlackTree 1000000
+Test Red Black Tree
+number of keys n = 1000000
+construction time = 1457
+tree height = 47
+search time = 96
+
