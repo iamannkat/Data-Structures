@@ -1,0 +1,106 @@
+// ANNA AIKATERINI TSIALIOU, 4188
+// DIMITRIS PERKAS, 4156
+// !!!IMPORTANT NOTE!!! In some previous assignments we forgot to write our names and AM 
+// before turning them in. But we are still in the same team. Sorry for the inconvenience :) 
+
+
+
+Test Index Min Priority Queue
+Number of items to be inserted = 20
+insert item 0 key 160
+insert item 1 key 348
+insert item 2 key 29
+insert item 3 key 47
+insert item 4 key 315
+insert item 5 key 253
+insert item 6 key 91
+insert item 7 key 161
+insert item 8 key 319
+insert item 9 key 54
+insert item 10 key 277
+insert item 11 key 277
+insert item 12 key 273
+insert item 13 key 262
+insert item 14 key 295
+insert item 15 key 44
+insert item 16 key 84
+insert item 17 key 275
+insert item 18 key 41
+insert item 19 key 120
+pq[1]= 1, key= 348
+pq[2]= 8, key= 319
+pq[3]= 14, key= 295
+pq[4]= 4, key= 315
+pq[5]= 10, key= 277
+pq[6]= 12, key= 273
+pq[7]= 11, key= 277
+pq[8]= 16, key= 84
+pq[9]= 17, key= 275
+pq[10]= 9, key= 54
+pq[11]= 0, key= 160
+pq[12]= 2, key= 29
+pq[13]= 5, key= 253
+pq[14]= 6, key= 91
+pq[15]= 13, key= 262
+pq[16]= 15, key= 44
+pq[17]= 3, key= 47
+pq[18]= 7, key= 161
+pq[19]= 18, key= 41
+pq[20]= 19, key= 120
+index[0]= 11
+index[1]= 1
+index[2]= 12
+index[3]= 17
+index[4]= 4
+index[5]= 13
+index[6]= 14
+index[7]= 18
+index[8]= 2
+index[9]= 9
+index[10]= 5
+index[11]= 7
+index[12]= 6
+index[13]= 15
+index[14]= 3
+index[15]= 15
+index[16]= 8
+index[17]= 9
+index[18]= 18
+index[19]= 19
+delMin item 18 key 29
+delMin item 0 key 29
+delMin item 3 key 29
+delMin item 7 key 29
+delMin item 13 key 29
+delMin item 15 key 29
+delMin item 5 key 29
+delMin item 6 key 29
+delMin item 0 key 29
+delMin item 2 key 29
+delMin item 17 key 54
+delMin item 9 key 54
+delMin item 11 key 84
+delMin item 16 key 84
+delMin item 10 key 273
+delMin item 12 key 273
+delMin item 14 key 295
+delMin item 4 key 315
+delMin item 1 key 319
+delMin item 8 key 319
+total time = 3
+
+
+
+Roma
+--
+
+New York
+last settled node = 0, distance from source node 1 = 9223372036854775807
+total time = 8
+
+
+exampleGraph 
+--
+
+
+
