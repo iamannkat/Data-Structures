@@ -1,0 +1,62 @@
+// ANNA AIKATERINI TSIALIOU, 4188
+// DIMITRIS PERKAS, 4156
+
+
+Test HashMap
+HashMap construction time = 226
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 230
+
+
+Test Hash Table with Chaining
+construction time = 1042
+total number of item comparisons  = 0
+load factor = 0.0
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 1043
+
+
+Test Hash Table with Linear Probing
+
+the following "1"s are from line 87, indicating that "value" is not null, however in the terminal it appears that "value" is null.
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+construction time = 154
+total number of item comparisons  = 0
+load factor = 0.0
+contains 'and' null times
+contains 'astonished' null times
+contains 'boat' null times
+contains 'path' null times
+contains 'the' null times
+contains 'train' null times
+contains 'tom' null times
+contains 'wondered' null times
+total running time = 157
+
+
+
