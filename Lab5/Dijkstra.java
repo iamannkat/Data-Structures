@@ -1,9 +1,3 @@
-
-// ANNA AIKATERINI TSIALIOU, 4188
-// DIMITRIS PERKAS, 4156
-// !!!IMPORTANT NOTE!!! In some previous assignments we forgot to write our names and AM 
-// before turning them in. But we are still in the same team. Sorry for the inconvenience :) 
-
 import java.io.* ;
 
 // compute shortest paths from a source vertex s
