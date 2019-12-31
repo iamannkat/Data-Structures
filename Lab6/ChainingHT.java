@@ -1,6 +1,3 @@
-// ANNA AIKATERINI TSIALIOU, 4188
-// DIMITRIS PERKAS, 4156
-
 import java.io.*;
 
 public class ChainingHT<Key,Value> {
