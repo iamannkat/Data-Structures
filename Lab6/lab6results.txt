@@ -1,7 +1,3 @@
-// ANNA AIKATERINI TSIALIOU, 4188
-// DIMITRIS PERKAS, 4156
-
-
 Test HashMap
 HashMap construction time = 226
 contains 'and' 3000 times
