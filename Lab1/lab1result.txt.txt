@@ -1,7 +1,3 @@
-ANNA AIKATERINI TSIALIOU, 4188
-DIMITRIS PERKAS, 4156
-
-
 Test WordList
 linked list construction time = 1375
 number of linked list nodes  = 8184
